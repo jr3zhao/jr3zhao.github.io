@@ -40,14 +40,13 @@ background-img: "../img/background.jpg"
 
 dynamic-typing: True
 shuffle: False # Shuffle the lines.
-loop: True
+loop: False
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Hi there. Welcome to my personal website!"
-  - text: "Shoot for the moon. Even if you miss, you'll land among the stars."
 
 me-img: "/img/me.jpg"
 
